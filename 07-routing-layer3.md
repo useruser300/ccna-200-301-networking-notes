@@ -322,6 +322,7 @@ So the router sends ARP:
 ```text
 Who has 23.227.38.65?
 ```
+(so he sendes the arp message to the switch and the switch broadcast it out )
 
 The server replies:
 
