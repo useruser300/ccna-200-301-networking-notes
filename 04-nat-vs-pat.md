@@ -1,7 +1,5 @@
 # NAT
 
-Sure, this is the content in the same professional and organized style, as a network engineer explanation, while keeping the same sequence of ideas: NAT, then Static NAT, then Dynamic NAT, then PAT.
-
 # 1) What is NAT?
 
 NAT stands for:
